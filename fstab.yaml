@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p42960-e174355.adobeaemcloud.com/bin/franklin.delivery/PratikRewatkar/pratik-eds-setup/main"
+    url: "https://author-p133739-e1306963.adobeaemcloud.com/bin/franklin.delivery/PratikRewatkar/pratik-eds-setup/main"
     type: "markup"
     suffix: ".html"
